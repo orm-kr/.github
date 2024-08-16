@@ -18,7 +18,7 @@
 ![img](./asset/05.png)
 ![img](./asset/06.png)
 
-## 👯‍♂️ Mebers
+## 👯‍♂️ Members
 
 <div align="left">
 
