@@ -8,8 +8,9 @@
 
 - <img src="https://img.icons8.com/color/20/000000/figma--v1.png"/> [Figma](https://www.figma.com/design/hqzvkj4XuLN4beGzodbbyt/%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%B0%A8%ED%8A%B8?node-id=0-1&t=n5dcGHgkT1Ca87Qc-0)
 - <img src="https://img.icons8.com/ios-filled/20/000000/notion.png"/> [Notion](https://yuihirasawa.notion.site/7-9-PJT-1d1ef668e018444ebd7513cbde3f4029?pvs=4)
-
 </div>
+
+[![YouTube Video Title](http://img.youtube.com/vi/p9Z8Hb_Y5OM/0.jpg)](https://youtu.be/p9Z8Hb_Y5OM?si=wPqNqBE1CJ0Y3TCD)
 
 ![img](./asset/01.png)
 ![img](./asset/02.png)
@@ -36,7 +37,20 @@
 |             <img src="https://avatars.githubusercontent.com/u/89973303?v=4" width="300">             |   <img src="https://avatars.githubusercontent.com/u/100199798?v=4" width="300">   |           <img src="https://avatars.githubusercontent.com/u/156047440?v=4" width="300">           |
 | <div align="left"><ul><li>FCM 푸쉬 알람</li><li>캐시 서버 구현</li><li>카카오 로그인</li></ul></div> | <div align="left"><ul><li>ERD 설계</li><li>CI/CD</li><li>API 구현</li></ul></div> | <div align="left"><ul><li>ERD 설계</li><li>API 구현</li><li>데이터 전처리 및 연동</li></ul></div> |
 
+
 </div>
+
+<div align="center">
+
+### 🌟 Special Thanks With Design 🌟
+
+| <h3 align="center">[✨ yuuuuuuujin ✨](https://github.com/yuuuuuuujin)</h3> |
+|:--:|
+| <img src="https://avatars.githubusercontent.com/u/162858603?v=4" width="300"> |
+| <div align="left"><ul><li>프로젝트 로고 디자인</li><li>UI 디자인 지원</li></ul></div> |
+
+</div>
+
 
 ## 🔍 주요 기능
 
